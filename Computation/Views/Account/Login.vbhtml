@@ -1,6 +1,6 @@
 ﻿@ModelType LoginViewModel
 @Code
-    ViewBag.Title = "Log in"
+    ViewBag.Title = "Sign in"
 End Code
 
 <h2>@ViewBag.Title.</h2>
